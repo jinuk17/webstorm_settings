@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="error" type="JavaScript" />
+      <mapping pattern="VSelectForField" type="JavaScript" />
       <mapping pattern="tester" type="JavaScript" />
+      <mapping pattern="error" type="JavaScript" />
     </extensionMap>
   </component>
 </application>
