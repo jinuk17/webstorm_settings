@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="asc" type="AsciiDoc" />
       <mapping pattern="VSelectForField" type="JavaScript" />
       <mapping pattern="tester" type="JavaScript" />
       <mapping pattern="error" type="JavaScript" />
